@@ -39,22 +39,37 @@ ELSE
 }
 
 
-3003 = lec 1
-3004 = lec 2
-3005 = lec 3
-3006 = lect 4
-3007 = lect 5
-3008 = lect 6
-3009 = lect 7
-3010 = lect 8
-3011 = lect 9
-3012 = lect 10
-3013 = lect 11
-3015 = lect 12
-3017 = lect 13
-3018 = lect 14
-3019 = lect 15
-more according to registration number
+lec 1 =  hibba Hussain 
+lec 2 =  mahnoor
+lec 3 = Muhammad umais
+lec 4 = sharif ullah
+lec 5 = sayed mehmood
+lec 6 = Muhammad Khizar Mirza
+lec 7 = Asma Waseem
+Lec 8 = Juniad Zia
+Lec 9 = Muhammad Tayyab
+lec 10 = Nouman Faiz
+lec 11 = Zubair Ali
+lec 12 = Muhammad Hussnain Basharat
+lec 13 = Muhammad Abuzar Javed
+lec 14 = Amna Abaid Ullah
+lec 15 = Mohsi
+lec 16 = Laiba Iftikhar
+lec 17 = Ashar Jabbar
+lec 18 = Umar Farooq
+lec 19 = Huzaifa Ausaf
+lec 20 = Muhammad Anas
+lec 21 = Muhammad Kashif
+lec 22 = Shahzaib Khan
+lec 23 = Saira Shah
+lec 24 = Benazir
+lec 25 = Mahnoor Shakeel
+lec 26 = Mujeeb Arshad
+lec 27 = M Ahsan Sharif
+lec 28 = Rayan Umer
+lec 29 = Muhammad Haris
+lec 30 = Muhammad Karamdad
+lec 31 = Fajar Naeem Rana
 
 ## Contributing to CS324 Web Dev Cheat Sheet
 
